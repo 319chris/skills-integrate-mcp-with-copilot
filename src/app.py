@@ -39,6 +39,12 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+    "GitHub Skills": {
+        "description": "Master real-world coding and collaboration using GitHub. This activity includes hands-on projects, teamwork, and is the first step toward GitHub Certifications. Open to all grade levels. Great for college applications!",
+        "schedule": "Thursdays, 4:00 PM - 5:00 PM",
+        "max_participants": 30,
+        "participants": []
+    },
     "Soccer Team": {
         "description": "Join the school soccer team and compete in matches",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
